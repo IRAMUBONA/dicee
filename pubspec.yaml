@@ -1,0 +1,41 @@
+name: dicee
+description: A new Flutter application.
+
+
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^3.0.0
+
+
+
+flutter:
+
+
+  uses-material-design: true
+
+
+  assets:
+     - images/dice/dice1.png
+     - images/dice/dice2.png
+     - images/dice/dice3.png
+     - images/dice/dice4.png
+     - images/dice/dice5.png
+     - images/dice/dice6.png
